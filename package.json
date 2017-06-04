@@ -1,11 +1,11 @@
 {
   "name": "semantic-ui-calendar",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Calendar module for Semantic UI",
   "author": "Michael de Hoog (https://github.com/mdehoog/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdehoog/semantic-ui-calendar.git"
+    "url": "git+https://github.com/mdehoog/semantic-ui-calendar.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -20,5 +20,13 @@
     "gulp-uglify": "^2.0.0",
     "require-dot-file": "^0.4.0",
     "semantic-ui-less": "^2.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/mdehoog/semantic-ui-calendar/issues"
+  },
+  "homepage": "https://github.com/mdehoog/semantic-ui-calendar#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
